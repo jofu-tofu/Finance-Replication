@@ -1,4 +1,8 @@
-# Revenue-Expense-Surprise-on-Return
+# Fiancial Replication
+
+## Getting Started
+
+Make .env file with WRDS_USER and WRDS_PASSWORD variables. Then run the data_loading.ipynb file to create the initial database that is used for each of the replications. Specific data unique to different replications will be in each different folder.
 
 The purpose of this project is to replicate and write about my findings of Ertimur et al. (2003), titled Differential Market Reactions to Revenue and Expense Surprises.
 
